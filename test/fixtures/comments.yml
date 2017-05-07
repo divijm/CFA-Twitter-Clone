@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  croak: MyText
+  ribbit: one
+  frog: one
+
+two:
+  croak: MyText
+  ribbit: two
+  frog: two
